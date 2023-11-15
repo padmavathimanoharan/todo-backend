@@ -1,4 +1,4 @@
-import Student from "../models/todo.model.js";
+import Todo from "../models/todo.model.js";
 
 // Add a new TODO
 export const addTodo = async (req, res) => {
